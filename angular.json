@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "WeatherStation"
+    }
+  },
+  "defaultProject": "WeatherStation",
+  "cli": {
+    "analytics": "c9bfad63-6ebd-4660-b7f4-29910da5e6e2"
+  }
 }
